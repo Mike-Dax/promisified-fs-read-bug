@@ -1,0 +1,8 @@
+{
+  "name": "promisified-fs-read-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Mike-Dax/promisified-fs-read-bug.git",
+  "author": "Michael Orenstein <michael@whiteshadows.me>",
+  "license": "MIT"
+}
